@@ -1,0 +1,7 @@
+C:\Users\магазин\source\repos\new_trees\new_trees\bin\Debug\new_trees.exe.config
+C:\Users\магазин\source\repos\new_trees\new_trees\bin\Debug\new_trees.exe
+C:\Users\магазин\source\repos\new_trees\new_trees\bin\Debug\new_trees.pdb
+C:\Users\магазин\source\repos\new_trees\new_trees\obj\Debug\new_trees.csprojAssemblyReference.cache
+C:\Users\магазин\source\repos\new_trees\new_trees\obj\Debug\new_trees.csproj.CoreCompileInputs.cache
+C:\Users\магазин\source\repos\new_trees\new_trees\obj\Debug\new_trees.exe
+C:\Users\магазин\source\repos\new_trees\new_trees\obj\Debug\new_trees.pdb

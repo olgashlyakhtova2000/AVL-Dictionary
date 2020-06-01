@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new_trees", "new_trees\new_trees.csproj", "{692AC667-30D9-487D-9D73-EAB7827B1054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692AC667-30D9-487D-9D73-EAB7827B1054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692AC667-30D9-487D-9D73-EAB7827B1054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692AC667-30D9-487D-9D73-EAB7827B1054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692AC667-30D9-487D-9D73-EAB7827B1054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7174C724-2E3D-49BF-82B0-C2214A294AB6}
+	EndGlobalSection
+EndGlobal
